@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Color flipper</title>
+
+    <link rel="stylesheet" href="style.css">
+
+<body>
+    <button>Change color: gray</button>
+
+
+
+    <!--  JAVASCRIPT  -->
+    <script lang="javascript">
+        function init() {
+            const buttonEl = document.getElementsByTagName('button')[0];
+
+            buttonEl.addEventListener('click', () => {
+                const newColor = getHexColor();
+
+                document.body.style.backgroundColor = newColor;
+                buttonEl.innerText = `Change color: ${newColor}`;
+            })
+        }
+
+        function getHexColor() {
+            let color = '';
+            let i = 0;
+
+            while (i < 6) {
+                const digit = Math.floor((Math.random() * 1000)) % 16;
+                const hexDigit = digit.toString(16);
+                color += hexDigit;
+                i += 1;
+            }
+
+            return `#${color}`;
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>

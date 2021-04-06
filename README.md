@@ -21,8 +21,9 @@ Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-proje
 `Yarn or Npm`
 
 ### Installation
-1. Fork this repository __!!you are on master, fork from the branch [initial-fork](https://github.com/Dima000/js-exercise-project/tree/initial-fork)__
-2. Enable GitHub Pages from your repository settings
+1. Fork this repository
+2. Switch to `initial-fork`branch and start your master from there to have a clean copy of the project
+3. Enable GitHub Pages from your repository settings
 
 ![image](https://user-images.githubusercontent.com/7374942/112717237-f693a380-8ef3-11eb-84ee-5ae1be5e9871.png)
 

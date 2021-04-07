@@ -2,9 +2,9 @@
 
 ### Progress
 
-Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-that-display-different-content)
+Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-projects-for-beginners)
 
-- [x] Color flipper
+- [ ] Color flipper
 - [ ] Counter
 - [ ] Review Carousel
 - [ ] Responsive navbar

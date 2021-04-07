@@ -22,7 +22,7 @@ Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-proje
 
 ### Installation
 1. Fork this repository
-2. Switch to `initial-fork`branch and start your master from there to have a clean copy of the project
+2. You can find the empty project setup on `main` branch
 3. Enable GitHub Pages from your repository settings
 
 ![image](https://user-images.githubusercontent.com/7374942/112717237-f693a380-8ef3-11eb-84ee-5ae1be5e9871.png)

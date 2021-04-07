@@ -5,7 +5,7 @@
 Source [freeCodeCamp article](https://www.freecodecamp.org/news/javascript-projects-for-beginners)
 
 - [x] Color flipper
-- [ ] Counter
+- [x] Counter
 - [ ] Review Carousel
 - [ ] Responsive navbar
 - [ ] Sidebar
